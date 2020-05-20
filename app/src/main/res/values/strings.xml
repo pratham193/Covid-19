@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Covid-19</string>
-    <string name="aboutUs">"Designed and developed by:PRATHAMESH JADHAV                      Student at :JSS SMI UG&amp;PG Studies Dharwad,Also at YOUTUBE,GOOGLE,      STACKOVERFLOW                          Social Media:  </string>
+    <string name="authentication">"This application uses API's to collect the data, as a result  there is no authentication of data. But 95% of the times the data will be correct.We have tested many time for authentication of data it's 95% accurate.Also The data might have tiny differences as it takes a small amount of time to get updated in the API(Database), But we have used API’s which tends to have genuine data related to district wise stats The API's used for Data collection are given below"</string>
+    <string name="aboutUs">"Designed and developed by:PRATHAMESH JADHAV                      Student at :JSS SMI UG&amp;PG Studies Dharwad,Also at YOUTUBE,GOOGLE,      STACKOVERFLOW                          for any reviews or info DM me at INSTAGRAM.                                 Social Media links:  </string>
 </resources>

@@ -41,7 +41,7 @@ class AboutUs : AppCompatActivity() {
             val intent = Intent()
             intent.action = Intent.ACTION_VIEW
             intent.addCategory(Intent.CATEGORY_BROWSABLE)
-            intent.data = Uri.parse("https://instagram.com/tech_lover_prathm?igshid=1p5vhhhoqmpt2")
+            intent.data = Uri.parse("https://github.com/pratham193/Covid-19")
             startActivity(intent)
         }
         supportActionBar?.title = "ABOUT US"
